@@ -42,3 +42,5 @@ Cycloid có nhiều điểm tiếp xúc hơn, giúp giảm độ rơ gần như 
 
 ### 3. Khả năng Chịu tải sốc (Shock Load Resistance):
 Tải trọng được phân tán đều qua nhiều chốt, khiến bộ truyền Cycloid cực kỳ bền bỉ và ít bị hỏng hóc cơ khí hơn, đảm bảo robot hoạt động liên tục trong các trận đấu.
+
+*File CAD được lấy từ [GrabCAD](https://grabcad.com/library/cycloidal-drive)*
